@@ -6,5 +6,8 @@ literaiiy is a pseudonym I adopted in March of 2018 as an intentionally incorrec
 
 My GitHub account is mostly used for hosting web development projects that I'm working on, for now. In the future I may un-private some of these repositories so you can see the internal spaghetti that holds together some of my websites!
 
+---
+
 My landing page: https://literaiiy.me
+
 My blog: https://dah.li/a
