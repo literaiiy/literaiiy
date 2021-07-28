@@ -8,6 +8,5 @@ My GitHub account is mostly used for hosting web development projects that I'm w
 
 ---
 
-My landing page: https://literaiiy.me
+https://literaiiy.me
 
-My blog: https://dah.li/a
