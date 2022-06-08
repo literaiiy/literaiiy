@@ -6,7 +6,7 @@ literaiiy is a pseudonym I adopted in March of 2018 as an intentionally incorrec
 
 My GitHub account is mostly used for hosting web development projects that I'm working on, for now. In the future I may un-private some of these repositories so you can see the internal spaghetti that holds together some of my websites!
 
-!(CodersRank data)[https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=literaiiy]
+!(CodersRank data)[/url https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=literaiiy]
 ---
 
 https://ethany.im
