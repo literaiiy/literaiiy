@@ -8,7 +8,7 @@ My GitHub account is mostly used for hosting web development projects that I'm w
 
 ![CodersRank data](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=literaiiy)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nlkgi4ilbezv6ilh12pmnreeq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nlkgi4ilbezv6ilh12pmnreeq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 https://ethany.im
